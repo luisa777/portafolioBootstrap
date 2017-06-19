@@ -1,0 +1,26 @@
+.inicio{
+	background: #2F3C4F;
+}
+p,span{
+	color:#fff;
+}
+.c2{
+	background: #17BC9C;
+}
+.C3{
+	background: #fff;
+}
+.c4{
+	background: #17BC9C;
+}
+h1,h2,h3{
+	color:#fff;
+}
+.boton{
+	width:200px;
+	height:50px;
+	background:#17BC9C;
+	margin:0 auto;
+	border-radius: 10px;
+	box-shadow: 2px 2px 5px #fff;
+}
